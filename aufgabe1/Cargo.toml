@@ -1,0 +1,10 @@
+[package]
+name = "sqareroot"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "sqrt"
+path = "sqareroot/sqrt.rs"
