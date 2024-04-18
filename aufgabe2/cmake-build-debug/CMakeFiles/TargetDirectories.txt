@@ -1,0 +1,3 @@
+/Users/joshuabrandes/Documents/dev/ohm/progs-exercises/aufgabe2/cmake-build-debug/CMakeFiles/aufgabe2.dir
+/Users/joshuabrandes/Documents/dev/ohm/progs-exercises/aufgabe2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joshuabrandes/Documents/dev/ohm/progs-exercises/aufgabe2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
