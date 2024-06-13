@@ -218,3 +218,8 @@ Cargo.lock
 
 # macOS
 .DS_Store
+
+# CLion Nova
+**/.idea/
+**/*.iml
+**/cmake-build-*/
