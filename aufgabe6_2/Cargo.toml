@@ -1,0 +1,9 @@
+[package]
+name = "sqrt_refactoring"
+version = "0.1.0"
+edition = "2018"
+authors = ["Joshua Brandes"]
+
+[lib]
+name = "sqrt_refactoring"
+path = "sqrt.rs"
